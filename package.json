@@ -16,5 +16,6 @@
     "query-string": "^6.2.0",
     "request": "latest",
     "axios": "latest"
+
   }
 }
